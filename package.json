@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo-en-javascript",
+  "version": "1.0.0",
+  "description": "###✍🏾 Conceptos importantes para entender el asincronismo:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsm09/Asincronismo-en-JavaScript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "David Mesa <mezad55@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidsm09/Asincronismo-en-JavaScript/issues"
+  },
+  "homepage": "https://github.com/davidsm09/Asincronismo-en-JavaScript#readme"
+}
