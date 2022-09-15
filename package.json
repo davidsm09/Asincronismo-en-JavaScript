@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/davidsm09/Asincronismo-en-JavaScript/issues"
   },
-  "homepage": "https://github.com/davidsm09/Asincronismo-en-JavaScript#readme"
+  "homepage": "https://github.com/davidsm09/Asincronismo-en-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
