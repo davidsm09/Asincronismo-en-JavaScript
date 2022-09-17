@@ -4,7 +4,7 @@
   "description": "###✍🏾 Conceptos importantes para entender el asincronismo:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node SRC/callback/challenge.js"
   },
   "repository": {
     "type": "git",
